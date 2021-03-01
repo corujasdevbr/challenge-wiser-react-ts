@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const token = 'wiser-token';","map":{"version":3,"sources":["F:/github/nextjs/chalenge-wiser-react-ts/src/utils/constants.ts"],"names":["token"],"mappings":"AAAA,OAAO,MAAMA,KAAK,GAAG,aAAd","sourcesContent":["export const token = 'wiser-token';"]},"metadata":{},"sourceType":"module"}
